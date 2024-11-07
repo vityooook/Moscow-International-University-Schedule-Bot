@@ -1,7 +1,5 @@
 # Moscow International University Schedule Bot
 
-![Bot Banner](path_to_your_banner_image.png)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
